@@ -179,7 +179,15 @@ const getYourSpaceInShape = [
     buy: "gardeshop.com",
     type: "LAMP",
   },
-  // Agora todos os repetidos (22–40) também recebem type:
+  {
+    id: 21,
+    src: "/photos/inspiration-hub/get-your-space-in-shape/img-21.jpg",
+    name: "Oak Seat Chainsaw Cut",
+    designer: "Bertrand Lacourt",
+    date: "2025",
+    buy: "jacquesaverna.com",
+    type: "CHAIR",
+  },
   {
     id: 22,
     src: "/photos/inspiration-hub/get-your-space-in-shape/img-22.jpg",

@@ -9,7 +9,7 @@ const newsData = [
   },
   {
     id: 2,
-    src: "/photos/inspiration-hub/news/img-2.avif",
+    src: "/photos/inspiration-hub/news/img-2.jpg",
     title: "Get into the mood",
     description: "Jorja Smith for Tush Magazine",
     height: "h-[80vh]",
@@ -17,7 +17,7 @@ const newsData = [
   },
   {
     id: 3,
-    src: "/photos/inspiration-hub/news/img-3.avif",
+    src: "/photos/inspiration-hub/news/img-3.jpg",
     title: "Get dressed & go out",
     description: "Tarantula",
     height: "h-[50vh]",
@@ -81,7 +81,7 @@ const newsData = [
   },
   {
     id: 11,
-    src: "/photos/inspiration-hub/news/img-11.png",
+    src: "/photos/inspiration-hub/news/img-11.jpg",
     title: "Get your space in shape",
     description: "No Se Eau de Parfum",
     height: "h-[65vh]",
@@ -89,7 +89,7 @@ const newsData = [
   },
   {
     id: 12,
-    src: "/photos/inspiration-hub/news/img-12.png",
+    src: "/photos/inspiration-hub/news/img-12.jpg",
     title: "Get into the mood",
     description: "Clock (model 103)",
     height: "h-[70vh]",
@@ -97,7 +97,7 @@ const newsData = [
   },
   {
     id: 13,
-    src: "/photos/inspiration-hub/news/img-13.png",
+    src: "/photos/inspiration-hub/news/img-13.jpg",
     title: "Get your space in shape",
     description: "Pareja de sillones de madera",
     height: "h-[55vh]",
@@ -106,7 +106,7 @@ const newsData = [
 
   {
     id: 14,
-    src: "/photos/inspiration-hub/news/img-14.png",
+    src: "/photos/inspiration-hub/news/img-14.jpg",
     title: "Get your space in shape",
     description: "The Perfect Burn - Gift Kit",
     height: "h-[75vh]",

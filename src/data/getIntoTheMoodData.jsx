@@ -1,5 +1,5 @@
 const getIntoTheMoodData = [
-  "/photos/inspiration-hub/get-into-the-mood/img-1.avif",
+  "/photos/inspiration-hub/get-into-the-mood/img-1.jpg",
   "/photos/inspiration-hub/get-into-the-mood/img-2.jpg",
   "/photos/inspiration-hub/get-into-the-mood/img-3.jpg",
   "/photos/inspiration-hub/get-into-the-mood/img-4.jpg",
@@ -28,7 +28,7 @@ const getIntoTheMoodData = [
   "/photos/inspiration-hub/get-into-the-mood/img-27.jpg",
   "/photos/inspiration-hub/get-into-the-mood/img-28.jpg",
   "/photos/inspiration-hub/get-into-the-mood/img-29.jpg",
-  "/photos/inspiration-hub/get-into-the-mood/img-1.avif",
+  "/photos/inspiration-hub/get-into-the-mood/img-30.jpg",
 ];
 
 export default getIntoTheMoodData;

@@ -1,4 +1,9 @@
 MAISON90 WEBSITE REMAKE
+<ul>
+   <li>RESPONSIVE</li>
+   <li>ALL FUNCTIONS</li>
+   <li>ALL ANIMATIONS</li>
+</ul>
 <hr/>
 <img src="https://media-hosting.imagekit.io/a2b26981b40f417c/img%201.PNG?Expires=1841349461&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=LzqHm01gDtKUQ1Yk8Kazhw8toDeqWGOHkzInU-pMDE-23gCP6P2Xj1iyISZOv9yYEmjclkPqQfH4aVPBgsAHjeFXwOIoE56vUfYBUSFdJ5hiGzjLEknTrwrYMsVry016fmrigCgTsR-SLr1J5P4Cv4zjhagCbfK~9g-dUSu4risVIPwO~rCKw-a3G61whBIF075TdLJx0HXogdHfjxdR56KNvSZa5qYWZ-nE37VcfNF3qGyy5HjNTCX90wq~5jd7J5A0XfzLauugiagVyiVS1ifIX0UDIBhzAkmoGhP-PakO8t~PIWwize8KcAbcHJt2N7TC07ttLuZ8WsILh5MEcw__"/>
 <br/><br/>
